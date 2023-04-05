@@ -15,6 +15,7 @@ print(new_sentence)
 
 
 ```
+___
 Output: 
 
 ```python
