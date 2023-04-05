@@ -15,3 +15,9 @@ print(new_sentence)
 
 
 ```
+Output: 
+
+```python
+I have a cat. My cat is black.
+
+```
